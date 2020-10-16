@@ -32,8 +32,8 @@ end
 
 # The test requires you to create a method called #new_hash that creates and returns a new, empty hash.
 #
-# The second test requires you to build a method called #actor that creates and returns a hash with a 
-# certain actor's name. Read the test output by entering rspec or learn test—this is where you will find the 
+# The second test requires you to build a method called #actor that creates and returns a hash with a
+# certain actor's name. Read the test output by entering rspec or learn test—this is where you will find the
 # necessary information for passing the test!
 # #
 # # The next series of tests will require you to build methods that build up a nested hash, one layer (or "level") at a time, in a similar way to how we built our epic_tragedy hash in the previous lesson. Read the test output very carefully; it will guide you through building the necessary methods. At the end of the exercise, your multidimensional monopoly hash should look like this:
