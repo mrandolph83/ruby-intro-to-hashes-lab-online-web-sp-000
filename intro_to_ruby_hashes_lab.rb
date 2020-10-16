@@ -1,7 +1,7 @@
 require 'pry'
-def new_hash(hash)
-	hash => {}
-	hash
+def new_hash(my_hash)
+	my_hash => {}
+	my_hash
 end
 # binding.pry
 
