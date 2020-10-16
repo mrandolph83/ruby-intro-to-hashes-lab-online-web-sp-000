@@ -1,6 +1,6 @@
 require 'pry'
 def new_hash(hash)
-	hash = Hash.new
+	hash => {}
 	return hash
 end
 # binding.pry
