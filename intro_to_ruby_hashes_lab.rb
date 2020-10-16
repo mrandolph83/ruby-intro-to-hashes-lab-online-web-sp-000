@@ -1,6 +1,8 @@
+require 'pry'
 def new_hash(hash)
 	hash = Hash.new
 end
+binding.pry
 
 def actor
 
