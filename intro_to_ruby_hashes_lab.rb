@@ -3,7 +3,7 @@ def new_hash(hash)
 	hash = Hash.new
 	return hash
 end
-binding.pry
+# binding.pry
 
 def actor
 
